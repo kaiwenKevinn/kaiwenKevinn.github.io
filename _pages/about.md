@@ -10,7 +10,7 @@ redirect_from:
 
 <h2 style=" font-family: 'Times New Roman';">Biography</h2>
 
-<span style="font-family: 'Times New Roman', Times, serif;">I am a first-year Ph.D. Student at [the Department of Computer Science and Engineering](http://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), under the supervision of [Prof. Hong Xu](https://henryhxu.github.io/index.html) since Fall 2024. Before that, I received my B.Eng. degree in Software Engineering from [Nanjing University](https://www.nju.edu.cn/EN/) in 2024. I am interested in system design for Machine Learning (**MLSys**), LLMs and general machine learning problems.</span>
+<span style="font-family: 'Times New Roman', Times, serif;">I am a first-year Ph.D. Student at [the Department of Computer Science and Engineering](http://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), under the supervision of [Prof. Hong Xu](https://henryhxu.github.io/index.html) since Fall 2024. Before that, I received my B.Eng. degree in Software Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2024. I am interested in system design for Machine Learning (**MLSys**), LLMs and general machine learning problems.</span>
 
 <h2 style=" font-family: 'Times New Roman';">Recent News</h2>
 
@@ -40,4 +40,4 @@ redirect_from:
 
 <h2 style=" font-family: 'Times New Roman';">Teaching</h2>
 
-- <span style="font-family: 'Times New Roman', Times, serif; ">Teaching Assistant: CSCI 3150, Introduction to Operating Systems, CUHK. 2024 Fall</span>
+- <span style="font-family: 'Times New Roman', Times, serif; ">Teaching Assistant: CSCI 3150, Introduction to Operating Systems, CUHK. 2024 Fall</span> 
