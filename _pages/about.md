@@ -18,6 +18,13 @@ redirect_from:
 - [06/2024] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">I Graduate from Nanjing University(NJU) as an Outstanding Graduate.  </span>
 - [05/2024] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">I Finish the 6-Month Internship in MSRA</span>.
 
+<h2 style=" font-family: 'Times New Roman';">Publication</h2>
+
+- <span style="font-family: 'Times New Roman', Times, serif;">Yicheng Feng, Yuetao Chen, <strong>Kaiwen Chen</strong>, Jingzong Li, Tianyuan Wu, Peng Cheng, Chuan Wu Wei Wang, Tsung-Yi Ho, Hong Xu. <a href="https://arxiv.org/abs/2412.12487" target="_blank">"Echo: Simulating Distributed Training at Scale"</a>, in arXiv Preprint, Dec 2024.</span>
+  
+  <a href="https://arxiv.org/abs/2412.12487" target="_blank" style="display: inline-block; margin: 5px 5px 5px 0; padding: 5px 12px; background-color: #007bff; color: white; text-decoration: none; border-radius: 4px; font-size: 12px; font-family: 'Times New Roman', Times, serif;">📄 Paper</a>
+  <a href="https://github.com/NetX-lab/Echo" target="_blank" style="display: inline-block; margin: 5px 5px 5px 0; padding: 5px 12px; background-color: #28a745; color: white; text-decoration: none; border-radius: 4px; font-size: 12px; font-family: 'Times New Roman', Times, serif;">💻 Code</a>
+
 <h2 style=" font-family: 'Times New Roman';">Education</h2>
 
 - <span style="font-family: 'Times New Roman', Times, serif; "> The Chinese University of Hong Kong, Hong Kong SAR, China 2024 Aug – Present</span>
@@ -26,7 +33,7 @@ redirect_from:
 
 - <span style="font-family: 'Times New Roman', Times, serif; ">Nanjing University, Nanjing, China, 2020 Sep – 2024 Jun</span>
 
-  <span style="font-family: 'Times New Roman', Times, serif; ">BS in Software Engineering, GPA 4.46/5.0, 3.82 / 4.0(Wes Algorithm)</span>
+  <span style="font-family: 'Times New Roman', Times, serif; ">BS in Software Engineering</span>
 
 <h2 style=" font-family: 'Times New Roman';">Internship</h2>
 
@@ -41,3 +48,4 @@ redirect_from:
 <h2 style=" font-family: 'Times New Roman';">Teaching</h2>
 
 - <span style="font-family: 'Times New Roman', Times, serif; ">Teaching Assistant: CSCI 3150, Introduction to Operating Systems, CUHK. 2024 Fall</span> 
+- <span style="font-family: 'Times New Roman', Times, serif; ">Teaching Assistant: CSCI 3320, Fundamentals of Machine Learning, CUHK. 2025 Spring</span> 
