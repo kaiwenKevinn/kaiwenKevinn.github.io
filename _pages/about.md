@@ -38,7 +38,7 @@ redirect_from:
 
 - <span style="font-family: 'Times New Roman', Times, serif; ">Nanjing University, Nanjing, China, 2020 Sep – 2024 Jun</span>
 
-  <span style="font-family: 'Times New Roman', Times, serif; ">BS in Software Engineering</span>
+  <span style="font-family: 'Times New Roman', Times, serif; ">B.E. in Software Engineering</span>
 
 <h2 style=" font-family: 'Times New Roman';">Internship</h2>
 
