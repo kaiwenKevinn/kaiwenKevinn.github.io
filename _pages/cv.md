@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ "/files/cv.pdf" | prepend: base_path }}" class="btn btn--primary" style="margin-bottom: 1rem;" download>📄 Download CV（PDF）</a>
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
