@@ -58,3 +58,5 @@ redirect_from:
 
 - <span style="font-family: 'Times New Roman', Times, serif; ">Teaching Assistant: CSCI 3150, Introduction to Operating Systems, CUHK. 2024 Fall</span> 
 - <span style="font-family: 'Times New Roman', Times, serif; ">Teaching Assistant: CSCI 3320, Fundamentals of Machine Learning, CUHK. 2025 Spring</span> 
+- <span style="font-family: 'Times New Roman', Times, serif; ">Teaching Assistant: CSCI 2040, Introduction to Python. 2025 Fall</span> 
+- <span style="font-family: 'Times New Roman', Times, serif; ">Teaching Assistant: CSCI 3320, Fundamentals of Machine Learning, CUHK. 2025 Spring</span> 
