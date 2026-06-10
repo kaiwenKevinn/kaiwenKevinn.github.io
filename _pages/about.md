@@ -25,12 +25,10 @@ redirect_from:
 
 
 - <span style="font-family: 'Times New Roman', Times, serif;"><strong>Kaiwen Chen</strong>, Xin Tan, Minchen Yu, Jingzong Li, Hong Xu. <a href="https://arxiv.org/abs/2507.21433" target="_blank">"ReasonCache: Accelerating Large Reasoning Model Serving through KV Cache Sharing"</a>, IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026</span>
-  
   <a href="https://arxiv.org/abs/2507.21433" target="_blank" style="display: inline-block; margin: 5px 5px 5px 0; padding: 5px 12px; background-color: #007bff; color: white; text-decoration: none; border-radius: 4px; font-size: 12px; font-family: 'Times New Roman', Times, serif;">📄 Paper</a>
 
 
 - <span style="font-family: 'Times New Roman', Times, serif;">Yicheng Feng, Yuetao Chen, <strong>Kaiwen Chen</strong>, Jingzong Li, Tianyuan Wu, Peng Cheng, Chuan Wu Wei Wang, Tsung-Yi Ho, Hong Xu. <a href="https://arxiv.org/abs/2412.12487" target="_blank">"Echo: Simulating Distributed Training at Scale"</a>, in arXiv Preprint, Dec 2024.</span>
-  
   <a href="https://arxiv.org/abs/2412.12487" target="_blank" style="display: inline-block; margin: 5px 5px 5px 0; padding: 5px 12px; background-color: #007bff; color: white; text-decoration: none; border-radius: 4px; font-size: 12px; font-family: 'Times New Roman', Times, serif;">📄 Paper</a>
   <a href="https://github.com/NetX-lab/Echo" target="_blank" style="display: inline-block; margin: 5px 5px 5px 0; padding: 5px 12px; background-color: #28a745; color: white; text-decoration: none; border-radius: 4px; font-size: 12px; font-family: 'Times New Roman', Times, serif;">💻 Code</a>
 
@@ -51,7 +49,7 @@ redirect_from:
 
 <h2 style=" font-family: 'Times New Roman';">Selected Awards</h2>
 
-- <span style="font-family: 'Times New Roman', Times, serif; ">People's Scholarship, Nanjing University, 2021,2022,2023</span>
+- <span style="font-family: 'Times New Roman', Times, serif; ">People's Scholarship, Nanjing University, 2021, 2022, 2023</span>
 - <span style="font-family: 'Times New Roman', Times, serif; ">Outstanding Student **(only 5% annually)**, Nanjing University, 2021,2022,2023 </span> 
 
 <h2 style=" font-family: 'Times New Roman';">Teaching</h2>
