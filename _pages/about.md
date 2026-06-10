@@ -13,14 +13,17 @@ redirect_from:
 <span style="font-family: 'Times New Roman', Times, serif;">I am a second-year Ph.D. Student at [the Department of Computer Science and Engineering](http://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), under the supervision of [Prof. Hong Xu](https://henryhxu.github.io/index.html) since Fall 2024. Before that, I received my B.Eng. degree in Software Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2024. I am interested in system design for Machine Learning (**MLSys**), LLMs and general machine learning problems.</span>
 
 <h2 style=" font-family: 'Times New Roman';">Recent News</h2>
-- [08/2024] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">[ReasonCache](https://arxiv.org/abs/2507.21433) Accepted to [IEEE/ACM IWQoS 26](https://iwqos2026.ieee-iwqos.org/)</span>
+- [04/2026] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">[ReasonCache](https://arxiv.org/abs/2507.21433) Accepted to [IEEE/ACM IWQoS 26](https://iwqos2026.ieee-iwqos.org/)</span>
 - [08/2024] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">I Join CUHK CSE as a Ph.D. Student. New Journey Starts!</span>
 - [06/2024] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">I Graduate from Nanjing University(NJU) as an Outstanding Graduate.  </span>
 - [05/2024] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">I Finish the 6-Month Internship in MSRA</span>.
 
 <h2 style=" font-family: 'Times New Roman';">Publication</h2>
 
-- <span style="font-family: 'Times New Roman', Times, serif;"><strong>Kaiwen Chen</strong>, Xin Tan, Minchen Yu, Hong Xu. <a href="https://arxiv.org/abs/2507.21433" target="_blank">"ReasonCache: Accelerating Large Reasoning Model Serving through KV Cache Sharing"</a>, IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026</span>
+- <span style="font-family: 'Times New Roman', Times, serif;"><strong>Kaiwen Chen</strong>, Xin Tan, Jingzong Li, Hong Xu. <a href="https://arxiv.org/abs/2606.03077" target="_blank">"Libra: Efficient Resource Management for Agentic RL Post-Training"</a>, in arXiv Preprint, June 2026.</span>
+  
+
+- <span style="font-family: 'Times New Roman', Times, serif;"><strong>Kaiwen Chen</strong>, Xin Tan, Minchen Yu, Jingzong Li, Hong Xu. <a href="https://arxiv.org/abs/2507.21433" target="_blank">"ReasonCache: Accelerating Large Reasoning Model Serving through KV Cache Sharing"</a>, IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026</span>
   
   <a href="https://arxiv.org/abs/2507.21433" target="_blank" style="display: inline-block; margin: 5px 5px 5px 0; padding: 5px 12px; background-color: #007bff; color: white; text-decoration: none; border-radius: 4px; font-size: 12px; font-family: 'Times New Roman', Times, serif;">📄 Paper</a>
 
