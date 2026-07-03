@@ -13,8 +13,8 @@ redirect_from:
 <span style="font-family: 'Times New Roman', Times, serif;">I am a second-year Ph.D. Student at [the Department of Computer Science and Engineering](http://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), under the supervision of [Prof. Hong Xu](https://henryhxu.github.io/index.html) since Fall 2024. Before that, I received my B.Eng. degree in Software Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2024. I am interested in system design for Machine Learning (**MLSys**), LLMs and general machine learning problems.</span>
 
 <h2 style=" font-family: 'Times New Roman';">Recent News</h2>
-- [07/2026] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">[Echo](https://arxiv.org/abs/2412.12487) Accepted to [SC 26](https://sc26.supercomputing.org/)</span>
-- [04/2026] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">[ReasonCache](https://arxiv.org/abs/2507.21433) Accepted to [IEEE/ACM IWQoS 26](https://iwqos2026.ieee-iwqos.org/)</span>
+- [07/2026] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">[Echo](https://arxiv.org/abs/2412.12487) is accepted to [SC 26](https://sc26.supercomputing.org/)</span>
+- [04/2026] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">[ReasonCache](https://arxiv.org/abs/2507.21433) is accepted to [IEEE/ACM IWQoS 26](https://iwqos2026.ieee-iwqos.org/)</span>
 - [08/2024] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">I Join CUHK CSE as a Ph.D. Student. New Journey Starts!</span>
 - [06/2024] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">I Graduate from Nanjing University(NJU) as an Outstanding Graduate.  </span>
 - [05/2024] <span style="font-family: 'Times New Roman', Times, serif; color:purple;">I Finish the 6-Month Internship in MSRA</span>.
